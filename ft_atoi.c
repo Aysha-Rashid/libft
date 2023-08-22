@@ -6,7 +6,7 @@
 /*   By: ayal-ras <ayal-ras@student.42abudhabi.a    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/04 15:54:46 by ayal-ras          #+#    #+#             */
-/*   Updated: 2023/08/18 15:48:45 by ayal-ras         ###   ########.fr       */
+/*   Updated: 2023/08/22 15:06:51 by ayal-ras         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,5 +47,6 @@ int	ft_atoi(const char	*str)
 // 	printf("%d\n", ft_atoi(str));
 // 	printf("%d\n", atoi(str));
 // }
+// hi, i am reem
 // i used if instead of else if for + signs
 // ascii to integer
